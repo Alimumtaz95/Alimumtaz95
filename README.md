@@ -1,4 +1,3 @@
-![Loading! Please wait](https://github.com/user-attachments/assets/76d61a01-e9fc-4d16-9ef9-d2381868a61d)
 # Hi there, I'm Mumtaz Ali 👋
 
 I'm a passionate student at the Virtual University of Pakistan, pursuing a **Bachelor's degree in Business and Information Technology**. In addition to my studies, I'm working towards a **GenAI Engineering certification** from the Presidential Initiative for Artificial Intelligence & Computing (PIAIC).
